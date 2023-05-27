@@ -10,7 +10,7 @@
 <p> </p>
 
 <p>メールアドレス：<a href="mailto:lirasphere@knightstarlily.com">lirasphere@knightstarlily.com</p>
-<br/>
+<p> </p>
 <p>▶️ はてなブログ　<a href="https://sphericaltears.hatenablog.com/">Spherical Days Notes.</a></p>
 <p>▶️ 二次創作サイト　<a href="http://id15.fm-p.jp/617/aliceblue9/">Thousand Chroma.</a>　（見るには鍵が必要です。どこかから聞き出してみてね☆）</p>
 <p> </p>
