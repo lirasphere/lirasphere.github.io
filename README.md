@@ -7,7 +7,7 @@
 
 <p>※ ご連絡等はTwitterのDM以外の連絡方法ならどこでもどうぞ（凍結がこわいので）ここに書いてあるリンクのメールなりDMなり</p>
 
-<p> </p> <br>
+<p> </p>
 
 <p>メールアドレス：<a href="mailto:lirasphere@knightstarlily.com">lirasphere@knightstarlily.com</p>
 <br/>
