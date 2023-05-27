@@ -5,7 +5,10 @@
 
 <p>リラさんのすっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
 
-<p>※ ご連絡等はTwitterのDM以外の連絡方法ならどこでもどうぞ（凍結がこわいので）ここに書いてあるリンクのメールなりDMなり。</p>
+<p>※ ご連絡等はTwitterのDM以外の連絡方法ならどこでもどうぞ（凍結がこわいので）ここに書いてあるリンクのメールなりDMなり</p>
+
+<p> </p> <br>
+
 <p>メールアドレス：<a href="mailto:lirasphere@knightstarlily.com">lirasphere@knightstarlily.com</p>
 <br/>
 <p>▶️ はてなブログ　<a href="https://sphericaltears.hatenablog.com/">Spherical Days Notes.</a></p>
@@ -38,5 +41,4 @@
 <p>▶️ lit.link（跡地）　<a href="https://lit.link/sphere606">sphere606</a>（ほぼほぼ更新停止）</p>
 <br/>
 <p>まだあるっちゃあるのですが、ここら辺にしておきたいと思います。お疲れ様でした。</p>
-  </body>
 </html>
