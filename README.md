@@ -7,7 +7,7 @@
 <p> </p>
 <p>※ ご連絡等はTwitterのDM以外の連絡方法ならどこでもどうぞ（凍結のリスクがあるので）ここに書いてあるリンクのメールなりDMなり。</p>
 <p>メールアドレス：<a href="mailto:lirasphere@knightstarlily.com">lirasphere@knightstarlily.com</p>
-<p> </p>
+<br/>
 <p>▶️ はてなブログ　<a href="https://sphericaltears.hatenablog.com/">Spherical Days Notes.</a></p>
 <p>▶️ 二次創作サイト　<a href="http://id15.fm-p.jp/617/aliceblue9/">Thousand Chroma.</a>　（見るには鍵が必要です。どこかから聞き出してみてね☆）</p>
 <p> </p>
