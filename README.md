@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <p>リラさんのすっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
-<p> </p>
+
 <p>※ ご連絡等はTwitterのDM以外の連絡方法ならどこでもどうぞ（凍結がこわいので）ここに書いてあるリンクのメールなりDMなり。</p>
 <p>メールアドレス：<a href="mailto:lirasphere@knightstarlily.com">lirasphere@knightstarlily.com</p>
 <br/>
@@ -27,7 +27,7 @@
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/user80684006">リラさんの動画保管庫</a></p>
 <p> </p>
-<p>▶️　Misskey（io）　<a href="https://misskey.io/@StorySphere_">@StorySphere_</a></p>　※ 人格違いすぎ注意
+<p>▶️　Misskey（io）　<a href="https://misskey.io/@StorySphere_">@StorySphere_</a>※ 人格違いすぎ注意</p>
 <p> </p>
 <p>〜質問箱系〜</p>
 <p>▶️ 質問箱　<a href="https://peing.net/ja/storysphere_">Peing</a></p>
