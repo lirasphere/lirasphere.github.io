@@ -30,8 +30,9 @@
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/user80684006">リラさんの動画保管庫</a></p>
 <p> </p>
-<p>▶️　Misskey（io）　<a href="https://misskey.io/@StorySphere_">@StorySphere_</a>※ 人格違いすぎ注意</p>
-<p> </p>
+<p>▶️ Misskey（io）　<a href="https://misskey.io/@StorySphere_">@StorySphere_</a>※ 人格違いすぎ注意</p>
+<p>▶️ Vivaldi.social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">Vivaldi.social</a>※ 自分のアカウントをリモートフォローする用のアカウントです</p>
+<p> </p>
 <p>〜質問箱系〜</p>
 <p>▶️ 質問箱　<a href="https://peing.net/ja/storysphere_">Peing</a></p>
 <p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/sphere_060?utm_medium=url_text&amp;utm_source=promotion">りらさんにマシュマロを投げる</a></p>
