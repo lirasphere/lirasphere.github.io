@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
 
 <p>リラさんのすっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
 
