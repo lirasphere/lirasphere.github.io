@@ -3,9 +3,13 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="stylesheet.css">
-  </head>
+    <h1>リラさんのインターネット住所録</h1>
+</head>
+<body>
+</body>
+</html>
 
-<p>リラさんのすっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
+<p>すっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
 <p>綺麗なホームページが見たい人は<a href="https://liranote.notion.site/liranote/LiRA-s-Landscape-0ffb6d02f6f84a71b941f3c1af64e903">こちら</a>から（Notionに飛びます。NotionもNotionで工事中みたいなとこある……）</p>
 
 <p>※ ご連絡等はTwitterのDM以外の連絡方法ならどこでもどうぞ（凍結がこわいので）ここに書いてあるリンクのメールなりDMなり</p>
