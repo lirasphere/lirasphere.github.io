@@ -11,6 +11,7 @@
 
 <p>すっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
 <p>綺麗なホームページが見たい人は<a href="https://knightstarlily.notion.site/knightstarlily/LiRA-s-Landscape-0ffb6d02f6f84a71b941f3c1af64e903">こちら</a>から（Notionに飛びます。NotionもNotionで工事中みたいなとこある……）</p>
+<p><a href="https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FghhHvnU8JLndYcgoglxa5ANAA3O5AOno%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEApd2yjefq4AMV8Gd4lH2WHFaKkIaMECkAwZ7FUm6XDWY%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion">直接DMをおくる</a></p>
 
 <p>※ ご連絡等はTwitterのDM以外の連絡方法ならどこでもどうぞ（凍結がこわいので）ここに書いてあるリンクのメールなりDMなり</p>
 
@@ -40,7 +41,8 @@
 <p>▶️ Misskey（io）　<a href="https://misskey.io/@StorySphere_">@StorySphere_</a>※ 人格違いすぎ注意</p>
 <p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">lirasphere</a>（自分のアカウントをリモートフォローする用のアカウント）</p>
 <p> </p>
-<p>〜質問箱系〜</p>
+<p>〜箱〜</p>
+<p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
 <p>▶️ 質問箱　<a href="https://peing.net/ja/storysphere_">Peing</a></p>
 <p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/sphere_060?utm_medium=url_text&amp;utm_source=promotion">りらさんにマシュマロを投げる</a></p>
 <p> </p>
