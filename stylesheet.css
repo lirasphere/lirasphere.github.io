@@ -1,5 +1,5 @@
 .background
 body {
-   background-image: url(‘https://github.com/lirasphere/lirasphere.github.io/blob/de8eac5c14639657abbad567a116849ee65fc131/background.png’);
+   background-image: url("https://github.com/lirasphere/lirasphere.github.io/blob/de8eac5c14639657abbad567a116849ee65fc131/background.png");
    background-size: cover;
    }
