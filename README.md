@@ -5,6 +5,7 @@
     <a href="https://knightstarlily.com/" 
    title="Liraのポートフォリオ的なサイトっぽいやつ">
       Lira / 譲羽リラのインターネット住所録</a>
+    <body>
     <link rel="stylesheet" href="stylesheet.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -15,9 +16,8 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <h1>リラさんのインターネット住所録</h1>
+    </body>
 </head>
-<body>
-</body>
 </html>
 
 <p>Liraさんのすっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
