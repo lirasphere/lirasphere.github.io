@@ -39,12 +39,13 @@
 <p>▶️ pictMalFem　<a href="https://pictmalfem.net/clearforce6">妃苺リラ</a></p>
 <p>▶️ misskey.cloud　<a href="https://misskey.cloud/@sphere">@sphere</a></p>
 <p>▶️ おとすきー　<a href="https://otoskey.tarbin.net/@sphere">@sphere</a></p>
-<p>▶️ Pleroma　<a href="https://xxx.azyobuzi.net/users/sphere">ご隠居サーバー @sphere</a></p>
+<p>▶️ Pleroma（Akkoma）　<a href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Bluesky　<a href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/user80684006">リラさんの動画保管庫</a></p>
 <p> </p>
-<p>▶️ Misskey（io）　<a href="https://misskey.io/@StorySphere_">@StorySphere_</a>※ 人格違いすぎ注意</p>
+<p>▶️ Misskey（io）　<a href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
+<p>▶️ Pleroma（ご隠居鯖）　<a href="https://xxx.azyobuzi.net/users/sphere">@sphere</a> ※ めちゃくちゃ低浮上</p>
 <p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">lirasphere</a>（自分のアカウントをリモートフォローする用のアカウント）</p>
 <p> </p>
 <p>〜箱〜</p>
