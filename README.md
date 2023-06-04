@@ -2,9 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <a href="https://knightstarlily.com/" 
-   title="Liraのポートフォリオ的なサイトっぽいやつ">
-      Lira / 譲羽リラのインターネット住所録</a>
     <body>
     <link rel="stylesheet" href="stylesheet.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
