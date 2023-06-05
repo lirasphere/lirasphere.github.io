@@ -46,6 +46,7 @@
 <p> </p>
 <p>▶️ Misskey（io）　<a href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
 <p>▶️ Pleroma（ご隠居鯖）　<a href="https://xxx.azyobuzi.net/users/sphere">@sphere</a> ※ めちゃくちゃ低浮上</p>
+<p>▶️ Fedibird（サブ）　<a rel="me" href="https://fedibird.com/@sphere">@sphere</a>　（色々個人的な検証や実験等に使うアカウントです）</p>
 <p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">lirasphere</a>（自分のアカウントをリモートフォローする用のアカウント）</p>
 <p> </p>
 <p>〜箱〜</p>
