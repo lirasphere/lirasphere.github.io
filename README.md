@@ -32,6 +32,7 @@
 <p>▶️ Twitter（本アカ）　<a href="https://twitter.com/Spherical_Iris">@Spherical_Iris</a></p>
 <p>▶️ Twitter（#NowPlaying）　<a href="https://twitter.com/CelestialSound_">@CelestialSound_</a></p>
 <p>▶️ Fedibird（Mastodon）　<a rel="me" href="https://fedibird.com/@chronosphere">@chronosphere</a>　（今の主な居場所はここです）</p>
+<p>▶️ Nightly Fedibird（非常時退避用アカウント）　<a rel="me" href="https://nightly.fedibird.com/@sphere">@sphere</a></p>
 <p>▶️ Instagram　<a href="https://www.instagram.com/lira_yuzuriha/">lira_yuzuriha</a></p>
 <p>▶️ Tumblr　<a href="https://tbr.knightstarlily.com/">Spherical My World</a></p>
 <p>▶️ note　<a href="https://note.com/sphere_/">sphere_</a></p>
