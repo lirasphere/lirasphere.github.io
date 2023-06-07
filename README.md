@@ -23,7 +23,7 @@
 
 <p> </p>
 
-<p>メールアドレス：<a href="mailto:lirasphere@knightstarlily.com">lirasphere@knightstarlily.com</a></p>
+<p>メールアドレス：<a href="mailto:lyrac@knightstarlily.com">lyrac@knightstarlily.com</a></p>
 <p> </p>
 <p>▶️ はてなブログ　<a href="https://sphericaltears.hatenablog.com/">Spherical Days Notes.</a></p>
 <p>▶️ 二次創作サイト　<a href="https://plus.fm-p.jp/u/thousandchroma">Thousand Chroma.</a>　（見るには鍵が必要です。どこかから聞き出してみてね☆）</p>
