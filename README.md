@@ -16,7 +16,7 @@
 </html>
 
 <p>Liraさんのすっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
-<p>綺麗なホームページが見たい人は<a href="https://knightstarlily.notion.site/knightstarlily/LiRA-s-Landscape-0ffb6d02f6f84a71b941f3c1af64e903">こちら</a>から（Notionに飛びます。NotionもNotionで工事中みたいなとこある……）</p>
+<p>綺麗なホームページが見たい人は<a href="https://lyrac.notion.site/LiRA-s-Landscape-0ffb6d02f6f84a71b941f3c1af64e903">こちら</a>から（Notionに飛びます。NotionもNotionで工事中みたいなとこある……）</p>
 <p><a href="https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FghhHvnU8JLndYcgoglxa5ANAA3O5AOno%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEApd2yjefq4AMV8Gd4lH2WHFaKkIaMECkAwZ7FUm6XDWY%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion">直接DMをおくる</a></p>
 
 <p>※ ご連絡等はTwitterのDM以外の連絡方法ならどこでもどうぞ（凍結がこわいので）ここに書いてあるリンクのメールなりDMなり、どこからでも。</p>
