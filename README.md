@@ -42,6 +42,7 @@
 <p>▶️ おとすきー　<a href="https://otoskey.tarbin.net/@sphere">@sphere</a></p>
 <p>▶️ Pleroma（Akkoma）　<a href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Bluesky　<a href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
+<p>▶️ T2　<a href="https://t2.social/sphere">@sphere</a></p>
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/user80684006">リラさんの動画保管庫</a></p>
 <p> </p>
