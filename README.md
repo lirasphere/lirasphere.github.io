@@ -58,6 +58,7 @@
 <p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/sphere_060?utm_medium=url_text&amp;utm_source=promotion">りらさんにマシュマロを投げる</a></p>
 <p> </p>
 <p>〜リンク集〜</p>
+<p>▶️ 音楽系SNSリンクまとめ　<a href="https://linktr.ee/lirasphere">Linktree</a></p>
 <p>▶️ lit.link（跡地）　<a href="https://lit.link/sphere606">sphere606</a>（ほぼほぼ更新停止）</p>
 <br/>
 <p>まだあるっちゃあるのですが、ここら辺にしておきたいと思います。お疲れ様でした。</p>
