@@ -50,7 +50,7 @@
 <p>▶️ Pleroma（ご隠居鯖）　<a href="https://xxx.azyobuzi.net/users/sphere">@sphere</a> ※ めちゃくちゃ低浮上</p>
 <p>▶️ Chillout Chat　<a rel="me" href="https://chillout.chat/@sphere">@sphere</a> ※　#NowPlaying投稿が主</p>
 <p>▶️ Fedibird（サブ）　<a rel="me" href="https://fedibird.com/@sphere">@sphere</a>　（色々個人的な検証や実験等に使うアカウントです）</p>
-<p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">lirasphere</a>（自分のアカウントをリモートフォローする用のアカウント）</p>
+<p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">lirasphere</a>　※ Vivaldi使ってるから初めてみただけで特に使ってません</p>
 <p> </p>
 <p>〜箱〜</p>
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
