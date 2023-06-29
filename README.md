@@ -60,6 +60,6 @@
 <p> </p>
 <p>〜リンク集〜</p>
 <p>▶️ 音楽系SNSリンクまとめ　<a href="https://linktr.ee/lirasphere">Linktree</a></p>
-<p>▶️ lit.link（跡地）　<a href="https://lit.link/sphere606">sphere606</a>（ほぼほぼ更新停止）</p>
+<p>▶️ lit.link　<a href="https://lit.link/lirasphere">lirasphere</a>（Fediverseアカウントまとめになりました）</p>
 <br/>
 <p>まだあるっちゃあるのですが、ここら辺にしておきたいと思います。お疲れ様でした。</p>
