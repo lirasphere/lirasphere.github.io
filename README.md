@@ -45,6 +45,7 @@
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
 <p>▶️ Bluesky　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
 <p>▶️ T2　<a rel="me" href="https://t2.social/sphere">@sphere</a></p>
+<p>▶️ タイッツー　<a href="https://taittsuu.com/users/sphere" rel="me">@sphere</a></p>
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/user80684006">リラさんの動画保管庫</a></p>
 <p> </p>
