@@ -34,6 +34,7 @@
 <p>▶️ Twitter（#NowPlaying）　<a href="https://twitter.com/CelestialSound_">@CelestialSound_</a></p>
 <p>▶️ Fedibird（Mastodon）　<a rel="me" href="https://fedibird.com/@chronosphere">@chronosphere</a>　（今の主な居場所はここです）</p>
 <p>▶️ Nightly Fedibird（非常時退避用アカウント）　<a rel="me" href="https://nightly.fedibird.com/@sphere">@sphere</a></p>
+<p>▶️ Bluesky　<a rel="me" href="https://bsky.app/profile/lyrac.jp">@lyrac.jp</a></p>
 <p>▶️ Instagram　<a href="https://www.instagram.com/lira_yuzuriha/">lira_yuzuriha</a></p>
 <p>▶️ Tumblr　<a href="https://tbr.knightstarlily.com/">Spherical My World</a></p>
 <p>▶️ note　<a href="https://note.com/sphere_/">sphere_</a></p>
@@ -43,7 +44,7 @@
 <p>▶️ おとすきー　<a rel="me" href="https://otoskey.tarbin.net/@sphere">@sphere</a></p>
 <p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
-<p>▶️ Bluesky　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
+<p>▶️ Bluesky（boobee.blue）　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
 <p>▶️ T2　<a rel="me" href="https://t2.social/sphere">@sphere</a></p>
 <p>▶️ タイッツー　<a href="https://taittsuu.com/users/sphere" rel="me">@sphere</a></p>
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
