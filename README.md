@@ -26,7 +26,7 @@
 
 <p>メールアドレス：<a href="mailto:lira@lyrac.jp">lira@lyrac.jp</a></p>
 <p> </p>
-<p>▶️ ブログ　<a href="https://blog.lyrac.jp/">Spherical Days Notes.</a></p>
+<p>▶️ ブログ　<a href="https://blog.lyrac.jp/">Spherical Days Note.</a></p>
 <p>▶️ 二次創作サイト　<a href="https://plus.fm-p.jp/u/thousandchroma">Thousand Chroma.</a>　（見るには鍵が必要です。どこかから聞き出してみてね☆）</p>
 <p>▶️ 旧ブログ　<a href="https://sphericaltears.hatenablog.com/">はてなブログ</a>　※ 更新終了</p>
 <p> </p>
