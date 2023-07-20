@@ -44,6 +44,8 @@
 <p>▶️ pictMalFem　<a href="https://pictmalfem.net/clearforce6">妃苺リラ</a></p>
 <p>▶️ misskey.cloud　<a rel="me" href="https://misskey.cloud/@sphere">@sphere</a></p>
 <p>▶️ おとすきー　<a rel="me" href="https://otoskey.tarbin.net/@sphere">@sphere</a></p>
+<p>▶️ Misskey（io）　<a rel="me" href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
+<p>▶️ Misskey（BackspaceKey）　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
 <p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
 <p>▶️ Bluesky（boobee.blue）　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
@@ -55,7 +57,6 @@
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/user80684006">リラさんの動画保管庫</a></p>
 <p> </p>
-<p>▶️ Misskey（io）　<a rel="me" href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
 <p>▶️ Chillout Chat　<a rel="me" href="https://chillout.chat/@sphere">@sphere</a> ※　#NowPlaying投稿が主</p>
 <p>▶️ 音ゲーマー丼　<a rel="me" href="https://otogamer.me/@CrystalSphere">@CrystalSphere</a>
 <p>▶️ Fedibird（サブ）　<a rel="me" href="https://fedibird.com/@sphere">@sphere</a>　※ 色々個人的な検証や実験等に使うアカウントです</p>
