@@ -48,6 +48,8 @@
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
 <p>▶️ Bluesky（boobee.blue）　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
 <p>▶️ T2　<a rel="me" href="https://t2.social/sphere">@sphere</a></p>
+<p>▶️ Spoutible　<a rel="me" href="https://spoutible.com/sphere">@sphere</a> （とりあえずアカウント作っただけ）</p>
+<p>▶️ Spill　<a href="https://www.spill.com/">@sphere</a> ※ 現在Web版がないためリンクを踏むと公式サイトに飛びます</p>
 <p>▶️ タイッツー　<a href="https://taittsuu.com/users/sphere" rel="me">@sphere</a></p>
 <p>▶️ ブルーバード　<a href="https://bluebird.blue/users/sphere">@sphere</a></p>
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
