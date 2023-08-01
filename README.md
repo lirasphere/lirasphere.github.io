@@ -55,6 +55,7 @@
 <p>▶️ Spill　<a href="https://www.spill.com/">@sphere</a> ※ 現在Web版がないためリンクを踏むと公式サイトに飛びます</p>
 <p>▶️ タイッツー　<a href="https://taittsuu.com/users/sphere" rel="me">@sphere</a></p>
 <p>▶️ ブルーバード　<a href="https://bluebird.blue/users/sphere">@sphere</a></p>
+<p>▶️ 翡翠SINGS　<a rel="me" href="https://kawasemi.cloud/@sphere">@sphere</a></p>
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/user80684006">リラさんの動画保管庫</a></p>
 <p> </p>
