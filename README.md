@@ -40,7 +40,7 @@
 <p>▶️ Threads　<a rel="me" href="https://www.threads.net/@lira_yuzuriha">lira_yuzuriha</a></p>
 <p>▶️ Tumblr　<a href="https://storytelling06.tumblr.com">Spherical My World</a></p>
 <p>▶️ note　<a href="https://note.com/sphere_/">sphere_</a></p>
-<p>▶️ Pixiv　<a href="https://www.pixiv.net/users/12300199">users/12300199</a></p>
+<p>▶️ Pixiv　<a href="https://pixiv.me/lirasphere">lirasphere</a></p>
 <p>▶️ pictMalFem　<a href="https://pictmalfem.net/clearforce6">妃苺リラ</a></p>
 <p>▶️ misskey.cloud　<a rel="me" href="https://misskey.cloud/@sphere">@sphere</a></p>
 <p>▶️ おとすきー　<a rel="me" href="https://otoskey.tarbin.net/@sphere">@sphere</a></p>
