@@ -36,8 +36,8 @@
 <p>▶️ Fedibird（Mastodon）　<a rel="me" href="https://fedibird.com/@chronosphere">@chronosphere</a>　（今の主な居場所はここです）</p>
 <p>▶️ Nightly Fedibird（非常時退避用アカウント）　<a rel="me" href="https://nightly.fedibird.com/@sphere">@sphere</a></p>
 <p>▶️ Bluesky　<a rel="me" href="https://bsky.app/profile/lyrac.jp">@lyrac.jp</a></p>
-<p>▶️ Instagram　<a href="https://www.instagram.com/lira_yuzuriha/">lira_yuzuriha</a></p>
-<p>▶️ Threads　<a rel="me" href="https://www.threads.net/@lira_yuzuriha">lira_yuzuriha</a></p>
+<p>▶️ Instagram　<a href="https://www.instagram.com/lira_sphere/">lira_sphere</a></p>
+<p>▶️ Threads　<a rel="me" href="https://www.threads.net/@lira_sphere">lira_sphere</a></p>
 <p>▶️ Tumblr　<a href="https://storytelling06.tumblr.com">Spherical My World</a></p>
 <p>▶️ note　<a href="https://note.com/sphere_/">sphere_</a></p>
 <p>▶️ Pixiv　<a href="https://pixiv.me/lirasphere">lirasphere</a></p>
