@@ -46,7 +46,6 @@
 <p>▶️ おとすきー　<a rel="me" href="https://otoskey.tarbin.net/@sphere">@sphere</a></p>
 <p>▶️ Misskey（io）　<a rel="me" href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
 <p>▶️ BackspaceKey　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
-<p>▶️ 9ineverse　<a rel="me" href="https://9ineverse.com/@sphere">@sphere</a></p>
 <p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
 <p>▶️ Bluesky（boobee.blue）　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
