@@ -66,7 +66,7 @@
 <p>〜箱〜</p>
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
 <p>▶️ 質問箱　<a href="https://peing.net/ja/storysphere_">Peing</a></p>
-<p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/sphere_060?utm_medium=url_text&amp;utm_source=promotion">りらさんにマシュマロを投げる</a></p>
+<p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/rh3lwxkst1094fo?utm_medium=url_text&utm_source=promotion">りらさんにマシュマロを投げる</a></p>
 <p> </p>
 <p>〜リンク集〜</p>
 <p>▶️ 音楽系SNSリンクまとめ　<a href="https://linktr.ee/lirasphere">Linktree</a></p>
