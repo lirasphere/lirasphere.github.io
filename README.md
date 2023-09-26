@@ -46,6 +46,7 @@
 <p>▶️ おとすきー　<a rel="me" href="https://otoskey.tarbin.net/@sphere">@sphere</a></p>
 <p>▶️ Misskey（io）　<a rel="me" href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
 <p>▶️ BackspaceKey　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
+<p>▶️ ぷりずみすきー　<a rel="me" href="https://prismisskey.space/@sphere">@sphere</a> ※ ioと同じく人格違（以下略</p>
 <p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
 <p>▶️ Bluesky（boobee.blue）　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
@@ -65,7 +66,7 @@
 <p> </p>
 <p>〜箱〜</p>
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
-<p>▶️ 質問箱　<a href="https://peing.net/ja/storysphere_">Peing</a></p>
+<p>▶️ 質問箱　<a href="https://peing.net/ja/lirasphere">Peing</a></p>
 <p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/rh3lwxkst1094fo?utm_medium=url_text&utm_source=promotion">りらさんにマシュマロを投げる</a></p>
 <p> </p>
 <p>〜リンク集〜</p>
