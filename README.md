@@ -61,6 +61,7 @@
 <p> </p>
 <p>▶️ Chillout Chat　<a rel="me" href="https://chillout.chat/@sphere">@sphere</a> ※　#NowPlaying投稿が主</p>
 <p>▶️ 音ゲーマー丼　<a rel="me" href="https://otogamer.me/@CrystalSphere">@CrystalSphere</a>
+<p>▶️ にじみす.moe　<a rel="me" href="https://nijimiss.moe/@sphere">@sphere</a> ※　あんまり使ってません</p>
 <p>▶️ Fedibird（サブ）　<a rel="me" href="https://fedibird.com/@sphere">@sphere</a>　※ 色々個人的な検証や実験等に使うアカウントです</p>
 <p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">lirasphere</a>　※ Vivaldi使ってるから初めてみただけで特に使ってません</p>
 <p> </p>
