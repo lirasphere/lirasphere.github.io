@@ -43,7 +43,6 @@
 <p>▶️ Pixiv　<a href="https://pixiv.me/lirasphere">lirasphere</a></p>
 <p>▶️ pictMalFem　<a href="https://pictmalfem.net/clearforce6">妃苺リラ</a></p>
 <p>▶️ misskey.cloud　<a rel="me" href="https://misskey.cloud/@sphere">@sphere</a></p>
-<p>▶️ おとすきー　<a rel="me" href="https://otoskey.tarbin.net/@sphere">@sphere</a></p>
 <p>▶️ Misskey（io）　<a rel="me" href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
 <p>▶️ BackspaceKey　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
 <p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
