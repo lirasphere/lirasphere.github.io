@@ -49,13 +49,14 @@
 <p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
 <p>▶️ Bluesky（boobee.blue）　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
-<p>▶️ Pebble/T2　<a rel="me" href="https://pebble.is/sphere">@sphere</a> ※ サービス終了済</p>
-<p>▶️ Spoutible　<a rel="me" href="https://spoutible.com/sphere">@sphere</a> （とりあえずアカウント作っただけ）</p>
-<p>▶️ Spill　<a href="https://www.spill.com/">@sphere</a> ※ 現在Web版がないためリンクを踏むと公式サイトに飛びます</p>
 <p>▶️ タイッツー　<a href="https://taittsuu.com/users/sphere" rel="me">@sphere</a></p>
 <p>▶️ ブルーバード　<a href="https://bluebird.blue/users/sphere">@sphere</a></p>
 <p>▶️ 翡翠SINGS　<a rel="me" href="https://kawasemi.cloud/@sphere">@sphere</a></p>
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
+<p>▶️ Pebble/T2　<a rel="me" href="https://pebble.is/sphere">@sphere</a> ※ サービス終了済</p>
+<p>▶️ Spoutible　<a rel="me" href="https://spoutible.com/sphere">@sphere</a> （とりあえずアカウント作っただけ）</p>
+<p>▶️ Spill　<a href="https://www.spill.com/">@sphere</a> ※ 現在Web版がないためリンクを踏むと公式サイトに飛びます</p>
+<p>▶️ state　<a href="https://apps.apple.com/jp/app/state/id6448899887">sphere</a> ※ 現在Web版がないためリンクを踏むとApp Storeに飛びます</p>
 <p> </p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/lirasphere">リラさんの動画保管庫</a></p>
 <p>▶️ しずかなインターネット　<a rel="me" href="https://sizu.me/sphere">sphere</a>　※ まだアカウントがあるだけです</p>
