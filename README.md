@@ -35,6 +35,7 @@
 <p>▶️ Twitter（#NowPlaying）　<a href="https://twitter.com/CelestialSound_">@CelestialSound_</a></p>
 <p>▶️ Fedibird（Mastodon）　<a rel="me" href="https://fedibird.com/@chronosphere">@chronosphere</a>　（今の主な居場所はここです）</p>
 <p>▶️ Nightly Fedibird（非常時退避用アカウント）　<a rel="me" href="https://nightly.fedibird.com/@sphere">@sphere</a></p>
+<p>▶️ Chillout Chat　<a rel="me" href="https://chillout.chat/@sphere">@sphere</a> ※　#NowPlaying投稿が主</p>
 <p>▶️ Bluesky　<a rel="me" href="https://bsky.app/profile/lyrac.jp">@lyrac.jp</a></p>
 <p>▶️ Instagram　<a href="https://www.instagram.com/lira_sphere/">lira_sphere</a></p>
 <p>▶️ Threads　<a rel="me" href="https://www.threads.net/@lira_sphere">lira_sphere</a></p>
@@ -55,9 +56,10 @@
 <p>▶️ ブルーバード　<a href="https://bluebird.blue/users/sphere">@sphere</a></p>
 <p>▶️ 翡翠SINGS　<a rel="me" href="https://kawasemi.cloud/@sphere">@sphere</a></p>
 <p>▶️ Keybase　<a href="https://keybase.io/lirayuzuriha">lirayuzuriha</a></p>
-<p>▶️ Vimeo　<a href="https://vimeo.com/lirasphere">リラさんの動画保管庫</a></p>
 <p> </p>
-<p>▶️ Chillout Chat　<a rel="me" href="https://chillout.chat/@sphere">@sphere</a> ※　#NowPlaying投稿が主</p>
+<p>▶️ Vimeo　<a href="https://vimeo.com/lirasphere">リラさんの動画保管庫</a></p>
+<p>▶️ しずかなインターネット　<a rel="me" href="https://sizu.me/sphere">sphere</a>　※ まだアカウントがあるだけです</p>
+<p> </p>
 <p>▶️ 音ゲーマー丼　<a rel="me" href="https://otogamer.me/@CrystalSphere">@CrystalSphere</a>
 <p>▶️ にじみす.moe　<a rel="me" href="https://nijimiss.moe/@sphere">@sphere</a> ※　あんまり使ってません</p>
 <p>▶️ kmy.blue　<a rel="me" href="https://kmy.blue/@sphere">@sphere</a> ※ あんまり顔出さないかも</p>
