@@ -70,6 +70,7 @@
 <p>▶️ Mastodon（TimeSpiralサーバー）　<a rel="me" href="https://social.timespiral.co.jp/@sphere">@sphere</a></p>
 <p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">@lirasphere</a>　※ Vivaldi使ってるから初めてみただけで特に使ってません</p>
 <p>▶️ Mozilla Social（Mastodon）　<a rel="me" href="https://mozilla.social/@sphere">@sphere</a>　※ Mozillaアカウント持ってたから初めてみただけで特に（以下略</p>
+<p>▶️ meisskey.one　<a rel="me" href="https://meisskey.one/@sphere">@sphere</a> ※ いまのところ作っただけ</p>
 <p> </p>
 <p>〜箱〜</p>
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
