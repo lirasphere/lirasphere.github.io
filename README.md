@@ -60,7 +60,7 @@
 <p>▶️ state　<a href="https://apps.apple.com/jp/app/state/id6448899887">sphere</a> ※ 現在Web版がないためリンクを踏むとApp Storeに飛びます</p>
 <p> </p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/lirasphere">リラさんの動画保管庫</a></p>
-<p>▶️ FediMovie　<a href="https://fedimovie.com/a/sphere" rel="me">@sphere</a></p>
+<p>▶️ FediMovie（PeerTube）　<a href="https://fedimovie.com/a/sphere" rel="me">@sphere</a></p>
 <p>▶️ しずかなインターネット　<a rel="me" href="https://sizu.me/sphere">sphere</a>　※ まだアカウントがあるだけです</p>
 <p> </p>
 <p>▶️ 音ゲーマー丼　<a rel="me" href="https://otogamer.me/@CrystalSphere">@CrystalSphere</a>
