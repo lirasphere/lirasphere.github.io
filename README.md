@@ -61,7 +61,8 @@
 <p> </p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/lirasphere">リラさんの動画保管庫</a></p>
 <p>▶️ FediMovie（PeerTube）　<a href="https://fedimovie.com/a/sphere" rel="me">@sphere</a></p>
-<p>▶️ しずかなインターネット　<a rel="me" href="https://sizu.me/sphere">sphere</a>　※ まだアカウントがあるだけです</p>
+<p>▶️ Pixelfed　<a href="https://pixelfed.tokyo/sphere" rel="me">sphere</a> ※ まだアカウントがあるだけです</p>
+<p>▶️ しずかなインターネット　<a rel="me" href="https://sizu.me/sphere">sphere</a>　※ まだアカウントがあるだけ</p>
 <p> </p>
 <p>▶️ 音ゲーマー丼　<a rel="me" href="https://otogamer.me/@CrystalSphere">@CrystalSphere</a>
 <p>▶️ にじみす.moe　<a rel="me" href="https://nijimiss.moe/@sphere">@sphere</a> ※　あんまり使ってません</p>
