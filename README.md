@@ -57,7 +57,7 @@
 <p>▶️ Pebble/T2　<a rel="me" href="https://pebble.is/sphere">@sphere</a> ※ サービス終了済</p>
 <p>▶️ Spoutible　<a rel="me" href="https://spoutible.com/sphere">@sphere</a> （とりあえずアカウント作っただけ）</p>
 <p>▶️ Spill　<a href="https://www.spill.com/">@sphere</a> ※ 現在Web版がないためリンクを踏むと公式サイトに飛びます</p>
-<p>▶️ state　<a href="https://apps.apple.com/jp/app/state/id6448899887">sphere</a> ※ 現在Web版がないためリンクを踏むとApp Storeに飛びます</p>
+<p>▶️ state　<a href="https://www.state.fit/">sphere</a> ※ 現在Web版がないためリンクを踏むと公式サイトに飛びます</p>
 <p> </p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/lirasphere">リラさんの動画保管庫</a></p>
 <p>▶️ FediMovie（PeerTube）　<a href="https://fedimovie.com/a/sphere" rel="me">@sphere</a></p>
