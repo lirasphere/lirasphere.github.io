@@ -41,7 +41,7 @@
 <p>▶️ Bluesky　<a rel="me" href="https://bsky.app/profile/lyrac.jp">@lyrac.jp</a></p>
 <p>▶️ Instagram　<a href="https://www.instagram.com/lira_sphere/">lira_sphere</a></p>
 <p>▶️ Threads　<a rel="me" href="https://www.threads.net/@lira_sphere">lira_sphere</a></p>
-<p>▶️ Tumblr　<a href="https://storytelling06.tumblr.com">Spherical My World</a></p>
+<p>▶️ Tumblr　<a href="https://tumblr.lyrac.jp">Spherical My World</a></p>
 <p>▶️ note　<a href="https://note.com/sphere_/">sphere_</a></p>
 <p>▶️ Pixiv　<a href="https://pixiv.me/lirasphere">lirasphere</a></p>
 <p>▶️ pictMalFem　<a href="https://pictmalfem.net/strawberrychoco">妃苺リラ</a></p>
