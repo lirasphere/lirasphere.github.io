@@ -86,7 +86,8 @@
 <p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/rh3lwxkst1094fo?utm_medium=url_text&utm_source=promotion">りらさんにマシュマロを投げる</a></p>
 <p> </p>
 <p>〜リンク集〜</p>
+<p>▶️ Bento　<a href="https://bento.me/sphere">sphere</a></p>
+<p>▶️ Fediverseアカウント住所まとめ　<a href="https://lit.link/lirasphere">lit.link</a>（Fediverseアカウントまとめになりました）</p>
 <p>▶️ 音楽系SNSリンクまとめ　<a href="https://linktr.ee/lirasphere">Linktree</a></p>
-<p>▶️ lit.link　<a href="https://lit.link/lirasphere">lirasphere</a>（Fediverseアカウントまとめになりました）</p>
 <br/>
 <p>まだあるっちゃあるのですが、ここら辺にしておきたいと思います。お疲れ様でした。</p>
