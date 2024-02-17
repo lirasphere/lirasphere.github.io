@@ -16,7 +16,7 @@
 </html>
 
 <p>Liraさんのすっきりしたお砂場です（）SNSリンク集一体何個作るつもりなんだ。</p>
-<p>綺麗なホームページが見たい人は<a href="https://lyrac.notion.site/LiRA-s-Landscape-0ffb6d02f6f84a71b941f3c1af64e903" rel="me">Notionサイト</a>か<a href="https://lirasphere.me" rel="me">Canvaホームページ</a>へどうぞ</p>
+<p>綺麗なホームページが見たい人は<a href="https://site.lyrac.jp" rel="me">Notionサイト</a>か<a href="https://lirasphere.me" rel="me">Canvaホームページ</a>へどうぞ</p>
 <p>最近<a href="https://ja.gravatar.com/lirasphere" rel="me">Gravatarプロフィール</a>も作りました</p>
 <br>
 <p>メールアドレス：<a href="mailto:lira@lyrac.jp">lira@lyrac.jp</a></p>
