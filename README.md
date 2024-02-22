@@ -69,7 +69,7 @@
 <p>▶️ Last.fm　<a rel="me" href="https://www.last.fm/ja/user/lira_sphere">lira_sphere</a></p>
 <p>▶️ しずかなインターネット　<a rel="me" href="https://sizu.me/sphere">sphere</a>　※ まだアカウントがあるだけ</p>
 <p>▶️ シンプルブログ　<a rel="me" href="https://simblo.net/u/822LGS">リラさんのはなれブログ</a> ※ まだアカウントがあ（ry</p>
-<p>▶️ Trickle　<a rel="me" href="https://trickle.day/sphere">sphere</a></p>
+<p>▶️ Trickle　<a rel="me" href="https://trickle.day/lirasphere">lirasphere</a></p>
 <p> </p>
 <p>▶️ 音ゲーマー丼　<a rel="me" href="https://otogamer.me/@CrystalSphere">@CrystalSphere</a>
 <p>▶️ にじみす.moe　<a rel="me" href="https://nijimiss.moe/@sphere">@sphere</a> ※　あんまり使ってません</p>
