@@ -66,9 +66,9 @@
 <p>▶️ Pixelfed　<a href="https://pixelfed.tokyo/sphere" rel="me">@sphere</a>　※ Pixelfedメインアカウントです</p>
 <p>▶️ FediSnap　<a href="https://fedisnap.com/sphere" rel="me">@sphere</a>　※ こちらは上のアカウントに何かあった時のための避難所です</p>
 <p>▶️ Last.fm　<a rel="me" href="https://www.last.fm/ja/user/lira_sphere">lira_sphere</a></p>
+<p>▶️ Trickle　<a rel="me" href="https://trickle.day/lirasphere">lirasphere</a></p>
 <p>▶️ しずかなインターネット　<a rel="me" href="https://sizu.me/sphere">sphere</a>　※ まだアカウントがあるだけ</p>
 <p>▶️ シンプルブログ　<a rel="me" href="https://simblo.net/u/822LGS">リラさんのはなれブログ</a> ※ まだアカウントがあ（ry</p>
-<p>▶️ Trickle　<a rel="me" href="https://trickle.day/lirasphere">lirasphere</a></p>
 <p> </p>
 <p>▶️ 音ゲーマー丼　<a rel="me" href="https://otogamer.me/@CrystalSphere">@CrystalSphere</a>
 <p>▶️ にじみす.moe　<a rel="me" href="https://nijimiss.moe/@sphere">@sphere</a> ※　あんまり使ってません</p>
@@ -79,6 +79,7 @@
 <p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">@lirasphere</a>　※ Vivaldi使ってるから初めてみただけで特に使ってません</p>
 <p>▶️ Mozilla Social（Mastodon）　<a rel="me" href="https://mozilla.social/@sphere">@sphere</a>　※ Mozillaアカウント持ってたから初めてみただけで特に（以下略</p>
 <p>▶️ meisskey.one　<a rel="me" href="https://meisskey.one/@sphere">@sphere</a> ※ いまのところ作っただけ</p>
+<p>▶️ Himagine.club　<a rel="me" href="https://himagine.club/@sphere">@sphere</a> ※ いまのところ作以下略</p>
 <p> </p>
 <p>〜箱〜</p>
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
