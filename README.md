@@ -28,7 +28,7 @@
 <p> </p>
 
 <p> </p>
-<p>▶️ ブログ　<a href="https://blog.lyrac.jp/">Spherical Days Note.</a></p>
+<p>▶️ ブログ　<a href="https://lirasphere.hatenablog.jp/">Spherical Days Note.</a></p>
 <p>▶️ 二次創作サイト　<a href="https://plus.fm-p.jp/u/thousandchroma">Thousand Chroma.</a>　（見るには鍵が必要です。どこかから聞き出してみてね☆）</p>
 <p>▶️ 旧ブログ　<a href="https://sphericaltears.hatenablog.com/">はてなブログ</a>　※ 更新終了</p>
 <p> </p>
@@ -50,6 +50,7 @@
 <p>▶️ BackspaceKey　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
 <p>▶️ Calckey（もこきー）　<a rel="me" href="https://mkkey.net/@sphere">@sphere</a> ※　ioと同じく人格違以下略</p>
 <p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
+<p>▶️ Iceshrimp（庭）　<a rel="me" href="https://rindo.garden/@sphere">@sphere</a> （今の所アカウント作っただけ）</p>
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
 <p>▶️ Bluesky（boobee.blue）　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
 <p>▶️ タイッツー　<a href="https://taittsuu.com/users/sphere" rel="me">@sphere</a></p>
@@ -74,12 +75,13 @@
 <p>▶️ にじみす.moe　<a rel="me" href="https://nijimiss.moe/@sphere">@sphere</a> ※　あんまり使ってません</p>
 <p>▶️ kmy.blue　<a rel="me" href="https://kmy.blue/@sphere">@sphere</a> ※ あんまり顔出さないかも</p>
 <p>▶️ Otadon　<a rel="me" href="https://otadon.com/@sphere">@sphere</a>
+<p>▶️ みすほわいと　<a rel="me" href="https://mi.mashiro.site/@sphere">@sphere</a> ※ いまのところ作っただけ</p>
 <p>▶️ Fedibird（サブ）　<a rel="me" href="https://fedibird.com/@sphere">@sphere</a>　※ 色々個人的な検証や実験等に使うアカウントです</p>
 <p>▶️ Mastodon（TimeSpiralサーバー）　<a rel="me" href="https://social.timespiral.co.jp/@sphere">@sphere</a></p>
 <p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">@lirasphere</a>　※ Vivaldi使ってるから初めてみただけで特に使ってません</p>
 <p>▶️ Mozilla Social（Mastodon）　<a rel="me" href="https://mozilla.social/@sphere">@sphere</a>　※ Mozillaアカウント持ってたから初めてみただけで特に（以下略</p>
 <p>▶️ meisskey.one　<a rel="me" href="https://meisskey.one/@sphere">@sphere</a> ※ いまのところ作っただけ</p>
-<p>▶️ Himagine.club　<a rel="me" href="https://himagine.club/@sphere">@sphere</a> ※ いまのところ作以下略</p>
+<p>▶️ Himagine.club　<a rel="me" href="https://himagine.club/@sphere">@sphere</a> ※ いまのところアカウント作っ（ry</p>
 <p> </p>
 <p>〜箱〜</p>
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
