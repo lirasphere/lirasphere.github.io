@@ -88,6 +88,7 @@
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
 <p>▶️ 質問箱　<a href="https://peing.net/ja/lirasphere">Peing</a></p>
 <p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/rh3lwxkst1094fo?utm_medium=url_text&utm_source=promotion">りらさんにマシュマロを投げる</a></p>
+<p>▶️ Retrospring　<a href="https://retrospring.net/@lirasphere">@lirasphere</a></p>
 <p> </p>
 <p>〜リンク集〜</p>
 <p>▶️ Bento　<a href="https://bento.me/sphere">sphere</a></p>
