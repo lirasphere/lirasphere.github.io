@@ -78,6 +78,7 @@
 <p>▶️ Otadon　<a rel="me" href="https://otadon.com/@sphere">@sphere</a>
 <p>▶️ みすほわいと　<a rel="me" href="https://mi.mashiro.site/@sphere">@sphere</a> ※ いまのところ作っただけ</p>
 <p>▶️ Fedibird（サブ）　<a rel="me" href="https://fedibird.com/@sphere">@sphere</a>　※ 色々個人的な検証や実験等に使うアカウントです</p>
+<p>▶️ Mastodon.social　<a rel="me" href="https://mastodon.social/@lirasphere">@lirasphere</a></p>
 <p>▶️ Mastodon（TimeSpiralサーバー）　<a rel="me" href="https://social.timespiral.co.jp/@sphere">@sphere</a></p>
 <p>▶️ Vivaldi Social（Mastodon） <a rel="me" href="https://social.vivaldi.net/@lirasphere">@lirasphere</a>　※ Vivaldi使ってるから初めてみただけで特に使ってません</p>
 <p>▶️ Mozilla Social（Mastodon）　<a rel="me" href="https://mozilla.social/@sphere">@sphere</a>　※ Mozillaアカウント持ってたから初めてみただけで特に（以下略</p>
