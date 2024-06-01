@@ -45,6 +45,7 @@
 <p>▶️ note　<a href="https://note.com/sphere_/">sphere_</a></p>
 <p>▶️ Pixiv　<a href="https://pixiv.me/lirasphere">lirasphere</a></p>
 <p>▶️ pictMalFem　<a href="https://pictmalfem.net/strawberrychoco">妃苺リラ</a></p>
+<p>▶️ ポイピク　<a href="https://pixiv.me/lirasphere">lirasphere</a></p>
 <p>▶️ misskey.cloud　<a rel="me" href="https://misskey.cloud/@sphere">@sphere</a></p>
 <p>▶️ Misskey（io）　<a rel="me" href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
 <p>▶️ BackspaceKey　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
@@ -61,7 +62,13 @@
 <p>▶️ Spoutible　<a rel="me" href="https://spoutible.com/sphere">@sphere</a> （とりあえずアカウント作っただけ）</p>
 <p>▶️ Spill　<a href="https://www.spill.com/">@sphere</a> ※ 現在Web版がないためリンクを踏むと公式サイトに飛びます</p>
 <p>▶️ state　<a href="https://www.state.fit/">sphere</a> ※ 現在Web版がないためリンクを踏むと公式サイトに飛びます</p>
-<p> </p>
+<p>▶️ Fiicen　<a href="https://fiicen.jp/field/sphere">@sphere</a> （とりあえずアカウント作っただけ）</p>
+<br>
+<p>▶️ Tumblr　<a href="https://tumblr.lyrac.jp">Spherical My World</a></p>
+<p>▶️ note　<a href="https://note.com/sphere_/">sphere_</a></p>
+<p>▶️ Pixiv　<a href="https://pixiv.me/lirasphere">lirasphere</a></p>
+<p>▶️ pictMalFem　<a href="https://pictmalfem.net/strawberrychoco">妃苺リラ</a></p>
+<p>▶️ ポイピク　<a href="https://poipiku.com/10017011">妃苺リラ</a></p>
 <p>▶️ Vimeo　<a href="https://vimeo.com/lirasphere">リラさんの動画保管庫</a></p>
 <p>▶️ FediMovie（PeerTube）　<a href="https://fedimovie.com/a/sphere" rel="me">@sphere</a></p>
 <p>▶️ Pixelfed　<a href="https://pixelfed.tokyo/sphere" rel="me">@sphere</a>　※ Pixelfedメインアカウントです</p>
@@ -71,7 +78,7 @@
 <p>▶️ Thredot　<a rel="me" href="https://thredot.org/u/sphere">@sphere</a></p>
 <p>▶️ しずかなインターネット　<a rel="me" href="https://sizu.me/sphere">sphere</a>　※ まだアカウントがあるだけ</p>
 <p>▶️ シンプルブログ　<a rel="me" href="https://simblo.net/u/822LGS">リラさんのはなれブログ</a> ※ まだアカウントがあ（ry</p>
-<p> </p>
+<br>
 <p>▶️ 音ゲーマー丼　<a rel="me" href="https://otogamer.me/@CrystalSphere">@CrystalSphere</a>
 <p>▶️ にじみす.moe　<a rel="me" href="https://nijimiss.moe/@sphere">@sphere</a> ※　あんまり使ってません</p>
 <p>▶️ kmy.blue　<a rel="me" href="https://kmy.blue/@sphere">@sphere</a> ※ あんまり顔出さないかも</p>
@@ -84,13 +91,13 @@
 <p>▶️ Mozilla Social（Mastodon）　<a rel="me" href="https://mozilla.social/@sphere">@sphere</a>　※ Mozillaアカウント持ってたから初めてみただけで特に（以下略</p>
 <p>▶️ meisskey.one　<a rel="me" href="https://meisskey.one/@sphere">@sphere</a> ※ いまのところ作っただけ</p>
 <p>▶️ Himagine.club　<a rel="me" href="https://himagine.club/@sphere">@sphere</a> ※ いまのところアカウント作っ（ry</p>
-<p> </p>
+<br>
 <p>〜箱〜</p>
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
 <p>▶️ 質問箱　<a href="https://peing.net/ja/lirasphere">Peing</a></p>
 <p>▶️ マシュマロ　<a href="https://marshmallow-qa.com/rh3lwxkst1094fo?utm_medium=url_text&utm_source=promotion">りらさんにマシュマロを投げる</a></p>
 <p>▶️ Retrospring　<a href="https://retrospring.net/@lirasphere">@lirasphere</a></p>
-<p> </p>
+<br>
 <p>〜リンク集〜</p>
 <p>▶️ Bento　<a href="https://bento.me/sphere">sphere</a></p>
 <p>▶️ Fediverseアカウント住所まとめ　<a href="https://lit.link/lirasphere">lit.link</a>（Fediverseアカウントまとめになりました）</p>
