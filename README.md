@@ -42,6 +42,7 @@
 <p>▶️ Instagram　<a href="https://www.instagram.com/lira_sphere/">lira_sphere</a></p>
 <p>▶️ Threads　<a rel="me" href="https://www.threads.net/@lira_sphere">lira_sphere</a></p>
 <p>▶️ misskey.cloud　<a rel="me" href="https://misskey.cloud/@sphere">@sphere</a></p>
+<p>▶️ Discord　<a rel="me" href="https://discordapp.com/users/1032954315427545168">lirasphere/Lira#4178</a></p>
 <p>▶️ Misskey（io）　<a rel="me" href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
 <p>▶️ BackspaceKey　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
 <p>▶️ Calckey（もこきー）　<a rel="me" href="https://mkkey.net/@sphere">@sphere</a> ※　ioと同じく人格違以下略</p>
