@@ -46,6 +46,7 @@
 <p>▶️ Discord　<a rel="me" href="https://discordapp.com/users/1032954315427545168">lirasphere/Lira#4178</a></p>
 <p>▶️ Misskey（io）　<a rel="me" href="https://misskey.io/@StorySphere_">@StorySphere_</a> ※ 人格違いすぎ注意</p>
 <p>▶️ BackspaceKey　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
+<p>▶️ はなみすきー　<a rel="me" href="https://misskey.flowers/@sphere">@sphere</a> ※ ばすきー（BackspaceKey）閉鎖によりこちらに移行しました</p>
 <p>▶️ Calckey（もこきー）　<a rel="me" href="https://mkkey.net/@sphere">@sphere</a> ※　ioと同じく人格違以下略</p>
 <p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Iceshrimp（庭）　<a rel="me" href="https://rindo.garden/@sphere">@sphere</a> （今の所アカウント作っただけ）</p>
