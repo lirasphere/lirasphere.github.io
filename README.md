@@ -38,7 +38,7 @@
 <p>▶️ Twitter（#NowPlaying）　<a href="https://twitter.com/CelestialSound_">@CelestialSound_</a></p>
 <p>▶️ Fedibird（Mastodon）　<a rel="me" href="https://fedibird.com/@chronosphere">@chronosphere</a>　（今の主な居場所はここです）</p>
 <p>▶️ Nightly Fedibird（非常時退避用アカウント）　<a rel="me" href="https://nightly.fedibird.com/@sphere">@sphere</a></p>
-<p>▶️ Chillout Chat　<a rel="me" href="https://chillout.chat/@sphere">@sphere</a> ※　#NowPlaying投稿が主</p>
+<p>▶️ friends.cafe　<a rel="me" href="https://friends.cafe/@sphere">@sphere</a> ※　#NowPlaying投稿が主</p>
 <p>▶️ Bluesky　<a rel="me" href="https://bsky.app/profile/lyrac.jp">@lyrac.jp</a></p>
 <p>▶️ Instagram　<a href="https://www.instagram.com/lira_sphere/">lira_sphere</a></p>
 <p>▶️ Threads　<a rel="me" href="https://www.threads.net/@lira_sphere">lira_sphere</a></p>
@@ -89,6 +89,7 @@
 <p>▶️ Mozilla Social（Mastodon）　<a rel="me" href="https://mozilla.social/@sphere">@sphere</a>　※ Mozillaアカウント持ってたから初めてみただけで特に（以下略</p>
 <p>▶️ meisskey.one　<a rel="me" href="https://meisskey.one/@sphere">@sphere</a> ※ いまのところ作っただけ</p>
 <p>▶️ Himagine.club　<a rel="me" href="https://himagine.club/@sphere">@sphere</a> ※ いまのところアカウント作っ（ry</p>
+<p>▶️ Chillout Chat　<a rel="me" href="https://chillout.chat/@sphere">@sphere</a> ※　#NowPlaying投稿が主</p>
 <br>
 <p>〜箱〜</p>
 <p>▶️ Wavebox　<a href="https://wavebox.me/wave/8bwxjdgpw5yjijjj/">Liraを応援する</a></p>
