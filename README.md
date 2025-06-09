@@ -48,7 +48,7 @@
 <p>▶️ BackspaceKey　<a rel="me" href="https://misskey.backspace.fm/@sphere">@sphere</a> ※ ioと同じく人格違いすぎ注意</p>
 <p>▶️ はなみすきー　<a rel="me" href="https://misskey.flowers/@sphere">@sphere</a> ※ ばすきー（BackspaceKey）閉鎖によりこちらに移行しました</p>
 <p>▶️ Calckey（もこきー）　<a rel="me" href="https://mkkey.net/@sphere">@sphere</a> ※　ioと同じく人格違以下略</p>
-<p>▶️ Akkoma（のえろま）　<a rel="me" href="https://pleroma.noellabo.jp/sphere">@sphere</a></p>
+<p>▶️ Akkoma（のえこま）　<a rel="me" href="https://akkoma.noellabo.jp/sphere">@sphere</a></p>
 <p>▶️ Iceshrimp（庭）　<a rel="me" href="https://rindo.garden/@sphere">@sphere</a> （今の所アカウント作っただけ）</p>
 <p>▶️ Pleroma（ご隠居鯖）　<a rel="me" href="https://xxx.azyobuzi.net/sphere">@sphere</a> （めちゃくちゃ低浮上）</p>
 <p>▶️ Bluesky（boobee.blue）　<a rel="me" href="https://bsky.app/profile/sphere.boobee.blue">@sphere.boobee.blue</a></p>
